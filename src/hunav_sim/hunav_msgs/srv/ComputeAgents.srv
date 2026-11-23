@@ -1,0 +1,5 @@
+# agents and robots (support multiple robots)
+hunav_msgs/Agents current_agents 
+hunav_msgs/Agents robots
+---
+hunav_msgs/Agents updated_agents

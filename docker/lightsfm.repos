@@ -1,0 +1,5 @@
+repositories:
+  lightsfm:
+    type: git
+    url: https://github.com/robotics-upo/lightsfm.git
+    version: 1f9c17846a4cfa076f8ef5d63afecebadc131b4a

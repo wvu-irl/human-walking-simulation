@@ -1,0 +1,41 @@
+repositories:
+  urdf_test:
+    type: git
+    url: https://github.com/pal-robotics/urdf_test.git
+    version: f9c8457ce445aeb503d83acd522a1eb75b597fcc
+  launch_pal:
+    type: git
+    url: https://github.com/pal-robotics/launch_pal.git
+    version: 2ec4873a867358682728bdc7a3e855864828a9fa
+  pal_gazebo_worlds:
+    type: git
+    url: https://github.com/pal-robotics/pal_gazebo_worlds.git
+    version: 3e69dfd7f5a09dae916b7b899b1f1be343185edf
+  pal_navigation_cfg_public:
+    type: git
+    url: https://github.com/pal-robotics/pal_navigation_cfg_public.git
+    version: 50b2b2f923ffbb9134027412bf3d0a00fcddc5bd
+  pmb2_robot:
+    type: git
+    url: https://github.com/robotics-upo/pmb2_robot.git
+    version: 6534ba9ae49e819c9cb7b724463d3892fd5b0a49
+  pmb2_navigation:
+    type: git
+    url: https://github.com/pal-robotics/pmb2_navigation.git
+    version: 7cbc4d1ec1dcaae70561d1d983a615b087f829a6
+  pmb2_simulation:
+    type: git
+    url: https://github.com/pal-robotics/pmb2_simulation.git
+    version: 66166ac52d00d9eeec64a46950bcc3ea8b0cd2e7
+  ros2_control:
+    type: git
+    url: https://github.com/ros-controls/ros2_control.git
+    version: 3db79b90e0fc7a164d34f208a57722b4aa8fd42d
+  gazebo_ros2_control:
+    type: git
+    url: https://github.com/ros-controls/gazebo_ros2_control.git
+    version: 2461f7f83e5c3cdd05a47fd267374b2f476e4d7b
+  people:
+    type: git
+    url: https://github.com/wg-perception/people.git
+    version: 0ae47f6e0208cedd84d19d066743fdc1d05fcafa
